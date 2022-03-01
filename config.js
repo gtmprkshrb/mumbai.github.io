@@ -26,6 +26,7 @@ const config = {
       title: "Sub Category: ",
       columnHeader: "SubCategory",
       listItems: [
+        "MalariaHotspot",
         "Others",
         "Defence Hospitals",
         "SDH/CHC",
